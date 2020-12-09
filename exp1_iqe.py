@@ -1,5 +1,5 @@
-from icpr2020_exp1_fid_score_only_nagapos import calculate_fid_given_paths
-from icpr2020_exp1_fid_score_only_nagapos_normalized import calculate_normalized_fid_given_paths
+from exp1_fid_score_only_nagapos import calculate_fid_given_paths
+from exp1_fid_score_only_nagapos_normalized import calculate_normalized_fid_given_paths
 import os
 import pathlib
 from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
